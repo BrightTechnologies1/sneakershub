@@ -1,22 +1,23 @@
 /* Header */
 
 .header {
-    text-align: center;
+    background-color: rgb(27, 27, 27);
+    position: static;
+    width: 100%;
+    z-index: -1;
+    color: #000;
     display: flex;
-    justify-content: center;
+    margin: 0;
+    padding: 10px;
   }
   
-  .logo {
+  /* .logo {
     top: 0;
     text-align: center;
     height: 120px;
     width: 100px;
     background: rgba(0, 0, 0, 0.2);
     border-radius: 0px 0px 50px 50px;
-  }
-  
-  .logo img {
-    margin: 20px;
-  }
+  } */
   
   
