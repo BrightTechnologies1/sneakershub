@@ -13,7 +13,7 @@ import image1 from '../images/image1.jpg'
 
 function Collection () {
 
-    const [key, setKey] = useState('collection');
+    const [key, setKey] = useState('Nike');
 
     return (
         <div className='collection container'>
